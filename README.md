@@ -50,8 +50,10 @@ I started my IT career in 2014/2015 and have been passionate about technology ev
 - [![DevForYou](https://img.shields.io/badge/-DevForYou-1A1A1A?style=flat-square&logo=dev.to&logoColor=white)](https://devforyou.pl)
 
 Feel free to explore my repositories and projects. I'm always open to collaboration and new opportunities!
-
 ---
+
+<a href="https://app.daily.dev/kychuwwk"><img src="https://api.daily.dev/devcards/v2/u2lW8m7uiETrzwj1cFGs1.png?type=wide&r=3iw" width="652" alt="DevForYou Krzysztof Włodarski's Dev Card"/></a>
+
 
 <a href="https://github.com/devxb/gitanimals">
   <img
